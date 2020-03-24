@@ -1,7 +1,7 @@
 package data
 
 import (
-	"github.com/pluralsight/libmanager/services/internal/entities"
+	"github.com/intetunder-temp/learning-go/pluralsight/deep-dive-into-go-packages/working-within-a-package/services/internal/entities"
 )
 
 // GetAll returns all of the events that the system is tracking.

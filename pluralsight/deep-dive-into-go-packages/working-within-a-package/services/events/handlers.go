@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/pluralsight/libmanager/services/events/data"
+	"github.com/intetunder-temp/learning-go/pluralsight/deep-dive-into-go-packages/working-within-a-package/services/events/data"
 )
 
 type eventHandler struct{}
